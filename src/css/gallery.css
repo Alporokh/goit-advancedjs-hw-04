@@ -23,7 +23,7 @@
 }
 
 /* Search form */
-.search-form {
+.form {
   display: flex;
   gap: 8px;
   width: 100%;
